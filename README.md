@@ -2,7 +2,7 @@
 
 ## What and Where?
 
-M.Sc. Statistics and Data Science
+M.Sc. Statistics and Data Science  
 Katholieke Universiteit Leuven - Leuven, Belgium.
 
 ## Title?
